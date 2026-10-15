@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou SEU NOME 👋</h1>
+<h1 align="center">Olá, eu sou Luis Andrade 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor(a) apaixonado(a) por código, café e aprender coisas novas.</em>
+  <em>Economista apaixonado em computação e matemática, que procuro uma alocação em Quant Finance.</em>
 </p>
 
 <p align="center">
