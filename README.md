@@ -37,21 +37,21 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1conto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1conto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com/?user=1conto&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </p>
 
 ## 🐍 Jogo da cobrinha
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1conto/1conto/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1conto/1conto/output/github-snake.svg" />
+    <img alt="Cobrinha comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/1conto/1conto/output/github-snake.svg" />
   </picture>
 </p>
 
